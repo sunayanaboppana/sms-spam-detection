@@ -12,7 +12,7 @@ This project implements an SMS spam detection system using machine learning. It 
 ## Dataset
 The dataset used in this project contains labeled SMS messages (spam or ham). It has been preprocessed for training and evaluation.
 
-## ⚙ Installation & Requirements
+## Installation & Requirements
 To run this project, install the required dependencies:
 
 ```bash
